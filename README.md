@@ -47,5 +47,5 @@ codebases are as sustainable as they are powerful.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jafar-dev&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jafar-marouf-2026&color=blue" alt="Profile Views" />
 </div>
